@@ -5,9 +5,18 @@
 ### 项目的目标
 根据各省卫健委发布数据，每日更新各城市的感染情况数据（目前只需要确诊病例）。
 
+### 目前项目状况
+Province|Lastest File Date
+-|-
+[Guangdong](Province/guangdong.py)|2020-02-02-00
+Beijing|TO DO
+各省级行政区|TO DO
+
 ### 如何为此项目贡献？
 感谢开源精神。
 欢迎各位朋友们拉取项目，从最远未更新的数据开始更新，合并分支。
+- 未添加的省区，按照模版[Template](Province/Template.py)进行添加；
+- 对已在Province文件夹中有的省市，若是文件未更新，请一起进行对应的Python代码更新。
 
 ### 数据来源
 感谢[各省卫健委官方网站](Source/webSource.csv)的数据发布
