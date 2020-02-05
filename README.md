@@ -10,7 +10,8 @@ Province|Lastest File Date
 :-|-:
 [Guangdong](Province/Guangdong.py)|2020-02-02-00
 [Beijing](Province/Beijing.py)|2020-02-02-00
-各省级行政区|TO DO
+[Anhui](Province/Anhui.py)|2020-02-02-00
+其它各省级行政区|TO DO
 
 ### 如何为此项目贡献？
 感谢开源精神。
