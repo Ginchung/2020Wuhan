@@ -1,6 +1,6 @@
 ### Project: 2020Wuhan@Github/Ginchung
-## File: parse.py
-## Run with 'python parse.py'
+## File: guangdong.py
+## Run with 'python guangdong.py'
 
 # object 'sdct'
 # Function: stores the info from official message

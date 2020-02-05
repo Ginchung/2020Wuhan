@@ -1,6 +1,6 @@
 ### Project: 2020Wuhan@Github/Ginchung
-## File: Template.py
-## Run with 'python Template.py'
+## File: tianjin.py
+## Run with 'python tianjin.py'
 
 # object 'sdct'
 # Function: stores the info from official message
