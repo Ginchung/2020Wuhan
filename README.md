@@ -6,13 +6,15 @@
 根据各省卫健委发布数据，每日更新各城市的感染情况数据（目前只需要确诊病例）。
 
 ### 目前项目状况
-Province|Lastest File Date
-:-|-:
-[Guangdong](Province/Guangdong.py)|2020-02-02-00
-[Beijing](Province/Beijing.py)|2020-02-05-00
-[Tianjin](Province/Tianjin.py)|2020-02-05-00
-[Anhui](Province/Anhui.py)|2020-02-05-00
-[Guangxi(Automatic)](Province/Guangxi.py)|2020-02-05-00
+Province|Lastest File Date|Status
+:-|-:|-:
+[Guangdong](Province/Guangdong.py)|2020-02-02-00|Tracked
+[Beijing](Province/Beijing.py)|2020-02-05-00|Tracked
+[Tianjin](Province/Tianjin.py)|2020-02-05-00|Tracked
+[Anhui](Province/Anhui.py)|2020-02-05-00|Tracked
+[Guangxi(Automatic)](Province/Guangxi.py)|2020-02-05-00|Tracked
+[Chongqing](Province/Chongqing.py)|2020-02-03-12|Stopped(Recent posts are pics)
+Shanghai|None|Stopped(All is pics)
 其它各省级行政区|TO DO
 
 ### 如何为此项目贡献？
