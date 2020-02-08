@@ -1,6 +1,14 @@
 # 中国nCoV-2019疫情发展的城市分辨率数据
+## City-resolution statistics of nCov-2019, China
+
 此项目是基于各省卫生健康委员会（简称“卫健委”）每日发布的中国各城市疫情数据汇总（暂不包含港澳台）。
 继而能够为后续建模分析、统计学习、人工智能算法提供基础数据。
+
+### 项目特色 Project Features
+- 各城市的数据，不只是各省 City-resolution! 
+- 直接从卫健委官方数据获得 Official statistics, by NHC and Health Commission of each province
+- 只囊括准确的确诊感染数 Just need to include the infected stats
+- 按照官方隔日发布数据更新 Daily updated
 
 ### 项目的目标
 根据各省卫健委发布数据，每日更新各城市的感染情况数据（目前只需要确诊病例）。
