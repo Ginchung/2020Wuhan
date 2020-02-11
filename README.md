@@ -5,8 +5,8 @@
 继而能够为后续建模分析、统计学习、人工智能算法提供基础数据。
 
 ### 项目特色 Project Features
+- 非爬虫数据，直接从卫健委官方数据获得 Official statistics(NHC of each province), **NOT From Web crawlers!**
 - 各城市的数据，不只是各省 City-resolution! 
-- 直接从卫健委官方数据获得 Official statistics, by NHC and Health Commission of each province
 - 只囊括准确的确诊感染数 Just need to include the infected stats
 - 按照官方隔日发布数据更新 Daily updated
 
