@@ -13,7 +13,7 @@
 ### 项目的目标
 根据各省卫健委发布数据，每日更新各城市的感染情况数据（目前只需要确诊病例）。
 
-### 目前项目状况
+### 目前项目状况 Project Status
 Province|Lastest File Date|Status|Comment|Auto Scripts?
 :-|-:|-:|-:|-:
 [Guangdong](Province/Guangdong.py)|2020-02-02-00|Tracked:white_check_mark:
@@ -30,6 +30,14 @@ Shanghai|None|Stopped|All posts are pics
 欢迎各位朋友们拉取项目，从最远未更新的数据开始更新，合并分支。
 - 未添加的省区，按照模版[Template](Province/Template.py)进行添加；
 - 对已在Province文件夹中有的省市，若是文件未更新，请一起进行对应的Python代码更新。
+
+
+### 推荐外部项目 Recommend Projects
+由于本项目人手不足，更新有延迟。因此，对于数据要求不是特别严格的用户（不要求包含全部历史数据），推荐几个在Github上维护较为及时的项目，以便大家使用数据库。
+
+项目名称|特点|缺点
+-|-|-
+[2019新型冠状病毒疫情时间序列数据仓库](https://github.com/BlankerL/DXY-2019-nCoV-Data)|此项目通过爬取“丁香园”网站获得具体数据，爬取的是丁香园的历史数据，保存为[csv文件](https://github.com/BlankerL/DXY-2019-nCoV-Data/blob/master/csv/DXYArea.csv)，便于机器读取。|数据最早记录来自2020-01-24，而本项目最早日期为2020-01-21，见[Province/Beijing.py](Province/Beijing.py)文件
 
 ### 数据来源
 感谢[各省卫健委官方网站](Source/webSource.csv)的数据发布
@@ -59,3 +67,4 @@ beijing , 东城,西城,朝阳,海淀,丰台,石景,门头,房山,通州,顺义,
 2020-02-01-12 , 3,17,28,39,16,3,1,2,13,2,12,20,1,11
 2020-02-02-00 , 3,17,35,41,16,4,1,2,13,6,12,21,1,11
 ```
+ 
