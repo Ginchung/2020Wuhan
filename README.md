@@ -1,6 +1,5 @@
-# 中国nCoV-2019疫情发展的城市分辨率数据
-## City-resolution statistics of nCov-2019, China
-
+# 中国nCoV-2019疫情发展的城市分辨率数据(停止更新:no_bell:)
+## City-resolution statistics of nCov-2019, China (No update:no_bell:)
 此项目是基于各省卫生健康委员会（简称“卫健委”）每日发布的中国各城市疫情数据汇总（暂不包含港澳台）。
 继而能够为后续建模分析、统计学习、人工智能算法提供基础数据。
 
@@ -16,14 +15,14 @@
 ### 目前项目状况 Project Status
 Province|Lastest File Date|Status|Comment|Auto Scripts?
 :-|-:|-:|-:|-:
-[Guangdong](Province/Guangdong.py)|2020-02-02-00|Tracked:white_check_mark:
-[Beijing](Province/Beijing.py)|2020-02-05-00|Tracked:white_check_mark:
-[Tianjin](Province/Tianjin.py)|2020-02-05-00|Tracked:white_check_mark:
-[Anhui](Province/Anhui.py)|2020-02-05-00|Tracked:white_check_mark:
-[Guangxi](Province/Guangxi.py)|2020-02-05-00|Tracked:white_check_mark:||:zap:
-[Chongqing](Province/Chongqing.py)|2020-02-03-12|Stopped|Recent posts are pics|:zap:
-Shanghai|None|Stopped|All posts are pics
-其它各省级行政区|TO DO|
+[Guangdong](Province/Guangdong.py)|2020-02-02-00|Stopped:no_bell:
+[Beijing](Province/Beijing.py)|2020-02-05-00|Stopped:no_bell:
+[Tianjin](Province/Tianjin.py)|2020-02-05-00|Stopped:no_bell:
+[Anhui](Province/Anhui.py)|2020-02-05-00|Stopped:no_bell:
+[Guangxi](Province/Guangxi.py)|2020-02-05-00|Stopped:no_bell:||:zap:
+[Chongqing](Province/Chongqing.py)|2020-02-03-12|Stopped:no_bell:|Recent posts are pics|:zap:
+Shanghai|None|Stopped:no_bell:|All posts are pics
+其它各省级行政区|None|Stopped:no_bell:
 
 ### 如何为此项目贡献？
 感谢开源精神。
